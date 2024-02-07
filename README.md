@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### About me 
-My name is Vivian, I'm living in Brazil, and currently working as a Full Stack Developer for a US company I have 5+ years of experience in the software development industry focused on the frontend side, and already worked in many kinds of projects on my freelancer and fulltime jobs. 
+My name is Vivian, I'm living in Brazil, and currently working as a Full Stack Developer for a US company.
+I have 5+ years of experience in the software development industry focused on the frontend side, and already worked in many kinds of projects on my freelancer and fulltime jobs. 
 
 I'm a person very creative, intuitive, and I love to solve problems, always keeping a positive mindset around obstacles.  
 My hobbies: 
