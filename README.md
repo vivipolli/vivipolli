@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vivipolli/vivipolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"> 
+
 -->
 
 ### About me 
@@ -26,27 +26,33 @@ My hobbies:
 - :microphone: Sing
 - :dancer: Dance
 
+### Main Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python)](https://skillicons.dev)
+
+
 ### Techs that I already worked with:
 
-####Languages: 
+#### Languages: 
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,python)](https://skillicons.dev)
 
-####Frameworks/Libs: 
+#### Frameworks/Libs: 
 [![My Skills](https://skillicons.dev/icons?i=angular,django,express,nextjs,nodejs,react,fask,reactnative&perline=10)](https://skillicons.dev)
 
-####Cloud: 
+#### Cloud: 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,heroku,firebase)](https://skillicons.dev)
 
-####Frontend Libs/Tools 
+#### Frontend Libs/Tools 
 [![My Skills](https://skillicons.dev/icons?i=apollo,redux,babel,bootstrap,css,sass,figma,html,jest,materialui,tailwind,vite,webpack)](https://skillicons.dev)
 
-####DevOps 
+#### DevOps 
 [![My Skills](https://skillicons.dev/icons?i=git,github,kubernetes,linux,nginx,prometheus,grafana,terraform,docker)](https://skillicons.dev)
 
-####DB/Data management
+#### DB/Data management
 [![My Skills](https://skillicons.dev/icons?i=dynamodb,elasticsearch,kafka,mongodb,postgres,prisma,rabbitmq,redis,sqlite)](https://skillicons.dev)
 
 
 
 
-#### 
+
+
