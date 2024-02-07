@@ -15,17 +15,19 @@ Here are some ideas to get you started:
 
 -->
 
-### About me 
-My name is Vivian, I'm living in Brazil, and currently working as a Full Stack Developer for a US company.
-I have 5+ years of experience in the software development industry focused on the frontend side, and already worked in many kinds of projects on my freelancer and fulltime jobs. 
+### About me ⭐
+My name is Vivian, I'm living in Brazil, and currently working as Full Stack Developer for a US company.
+I have 5+ years of experience in the software development industry focused on the frontend side, and already worked on many kinds of projects on my freelancer and full-time jobs. 
 
-I'm a person very creative, intuitive, and I love to solve problems, always keeping a positive mindset around obstacles.  
+I'm a person very creative, and intuitive, and I love to solve problems, always keeping a positive mindset around obstacles.  
+ 
 My hobbies: 
 
 - :closed_book: Read
 - :airplane: Travel
 - :microphone: Sing
 - :dancer: Dance
+- 🙆 Yoga
 
 ### Main Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
@@ -34,7 +36,7 @@ My hobbies:
 ### Techs that I already worked with:
 
 #### Languages: 
-
+<a href="#" title="Este é um tooltip"></a> 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,python)](https://skillicons.dev)
 
 #### Frameworks/Libs: 
