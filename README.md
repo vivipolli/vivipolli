@@ -28,7 +28,7 @@ My hobbies:
 - :dancer: Dance
 
 ### Main Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
 
 ### Techs that I already worked with:
