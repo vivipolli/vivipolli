@@ -48,7 +48,9 @@ I'm a person very creative, and intuitive, and I love to solve problems, always 
 [![My Skills](https://skillicons.dev/icons?i=dynamodb,elasticsearch,kafka,mongodb,postgres,prisma,rabbitmq,redis,sqlite)](https://skillicons.dev)
 
 #### BasS
-[![My Skills](https://skillicons.dev/icons?i=firebase,amplify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,amplify)](https://skillicons.dev) 
+<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer" width="40"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
+
 
 
 
