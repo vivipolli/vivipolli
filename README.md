@@ -21,6 +21,8 @@ I have 5+ years of experience in the software development industry focused on th
 
 I'm a person very creative, and intuitive, and I love to solve problems, always keeping a positive mindset around obstacles. 
 
+**Linkedin:** https://www.linkedin.com/in/vivian-polli-culn/
+
 ## Professional
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivipolli&show_icons=true&locale=en&layout=compact" alt="vivipolli" /></p> 
